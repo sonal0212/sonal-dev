@@ -6,7 +6,7 @@
       <ul>
         <li>🔭 I’m currently building agentic AI architectures and RAG pipelines.</li>
         <li>⚡ I specialize in <b>Java, Spring Boot, and local LLMs</b> like Ollama,Mistral,GPT oss.</li>
-        <li>🏆 Top 10 runner up of <b>Smart India Hackathon 2023</b>[cite: 74].</li>
+        <li>🏆 Top 10 runner up of <b>Smart India Hackathon 2023</b></li>
       </ul>
     </td>
     <td width="50%" align="center">
