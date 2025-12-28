@@ -12,7 +12,7 @@
       </ul>
     </td>
     <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sonal0212&show_icons=true&theme=radical" alt="GitHub Stats" />
+        <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Best_AI_Code_Generators.jpg" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -23,28 +23,22 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | [cite_start]☕ `Java` 🐍 `Python` 🟨 `JavaScript` 📋 `SQL` |
-| **Backend** | [cite_start]🍃 `Spring Boot` 🟢 `Node.js` 🚂 `Express` 🔌 `REST APIs` |
-| **GenAI / AI** | [cite_start]🤖 `Ollama (14B)` 🧠 `Claude Code` 🔗 `n8n` 🏗️ `RAG Pipelines` |
-| **Database** | [cite_start]🐘 `PostgreSQL` 🍃 `MongoDB` 📁 `Vector Databases (FAISS)` |
-| **Cloud & DevOps** | [cite_start]☁️ `AWS (EC2/S3)` 🐳 `Docker` 🔥 `Firebase` |
-| **Tools** | [cite_start]🐙 `Git` 🛠️ `Jira` 📮 `Postman` 🏗️ `TeamCity` |
+| **Languages** | ☕ `Java` 🐍 `Python` 🟨 `JavaScript` 📋 `SQL` |
+| **Backend** | 🍃 `Spring Boot` 🟢 `Node.js` 🚂 `Express` 🔌 `REST APIs` |
+| **GenAI / AI** | 🤖 `Ollama (14B)` 🧠 `Claude Code` 🔗 `n8n` 🏗️ `RAG Pipelines` |
+| **Database** | 🐘 `PostgreSQL` 🍃 `MongoDB` 📁 `Vector Databases (FAISS)` |
+| **Cloud & DevOps** | ☁️ `AWS (EC2/S3)` 🐳 `Docker` 🔥 `Firebase` |
+| **Tools** | 🐙 `Git` 🛠️ `Jira` 📮 `Postman` 🏗️ `TeamCity` |
 
 ---
 
 ### 🚀 Featured Projects
 
-* [cite_start]**[Al-Powered Knowledge Chat]** - Local LLM retrieval using Ollama 14B and FAISS.
-* [cite_start]**[TaskSync]** - Team management with AI task summarization.
-* [cite_start]**[DentalCare]** - Automated healthcare scheduling and mailer systems.
+* **[Al-Powered Knowledge Chat]** - Local LLM retrieval using Ollama 14B and FAISS.
+* **[TaskSync]** - Team management with AI task summarization.
+* **[DentalCare]** - Automated healthcare scheduling and mailer systems.
 
 ---
-
-### 📈 GitHub Activities
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonal0212&theme=radical" alt="GitHub Streak" />
-</p>
 
 ### 🤝 Connect with Me
 <p align="left">
