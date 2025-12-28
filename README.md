@@ -4,11 +4,11 @@
   <tr>
     <td width="50%">
       <h3>👋 Hi, I'm Sonal Singh</h3>
-      <p>I am a <b>Backend Developer & GenAI Specialist</b> focused on merging scalable microservices with modern LLM orchestration[cite: 8, 10]. Currently working as an Associate Developer at <b>Petro IT Solutions</b>[cite: 18].</p>
+      <p>I am a <b>Backend Developer & GenAI Specialist</b> focused on merging scalable microservices with modern LLM orchestration. Currently working as an Associate Developer at <b>Petro IT Solutions</b></p>
       <ul>
-        <li>🔭 I’m currently building agentic AI architectures and RAG pipelines[cite: 22, 24].</li>
-        <li>⚡ I specialize in <b>Java, Spring Boot, and local LLMs</b> like Ollama[cite: 9, 19, 20].</li>
-        <li>🏆 Winner of <b>Smart India Hackathon 2023</b>[cite: 74].</li>
+        <li>🔭 I’m currently building agentic AI architectures and RAG pipelines.</li>
+        <li>⚡ I specialize in <b>Java, Spring Boot, and local LLMs</b> like Ollama,Mistral,GPT oss.</li>
+        <li>🏆 Top 10 runner up of <b>Smart India Hackathon 2023</b>[cite: 74].</li>
       </ul>
     </td>
     <td width="50%" align="center">
@@ -23,20 +23,20 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | [cite_start]☕ `Java` 🐍 `Python` 🟨 `JavaScript` 📋 `SQL` [cite: 48, 51, 52] |
-| **Backend** | [cite_start]🍃 `Spring Boot` 🟢 `Node.js` 🚂 `Express` 🔌 `REST APIs` [cite: 53, 54] |
-| **GenAI / AI** | [cite_start]🤖 `Ollama (14B)` 🧠 `Claude Code` 🔗 `n8n` 🏗️ `RAG Pipelines` [cite: 56, 57, 59, 67] |
-| **Database** | [cite_start]🐘 `PostgreSQL` 🍃 `MongoDB` 📁 `Vector Databases (FAISS)` [cite: 14, 49, 65, 70] |
-| **Cloud & DevOps** | [cite_start]☁️ `AWS (EC2/S3)` 🐳 `Docker` 🔥 `Firebase` [cite: 59, 68, 72] |
-| **Tools** | [cite_start]🐙 `Git` 🛠️ `Jira` 📮 `Postman` 🏗️ `TeamCity` [cite: 50, 51, 55, 72] |
+| **Languages** | [cite_start]☕ `Java` 🐍 `Python` 🟨 `JavaScript` 📋 `SQL` |
+| **Backend** | [cite_start]🍃 `Spring Boot` 🟢 `Node.js` 🚂 `Express` 🔌 `REST APIs` |
+| **GenAI / AI** | [cite_start]🤖 `Ollama (14B)` 🧠 `Claude Code` 🔗 `n8n` 🏗️ `RAG Pipelines` |
+| **Database** | [cite_start]🐘 `PostgreSQL` 🍃 `MongoDB` 📁 `Vector Databases (FAISS)` |
+| **Cloud & DevOps** | [cite_start]☁️ `AWS (EC2/S3)` 🐳 `Docker` 🔥 `Firebase` |
+| **Tools** | [cite_start]🐙 `Git` 🛠️ `Jira` 📮 `Postman` 🏗️ `TeamCity` |
 
 ---
 
 ### 🚀 Featured Projects
 
-* [cite_start]**[Al-Powered Knowledge Chat]** - Local LLM retrieval using Ollama 14B and FAISS[cite: 32, 33, 34].
-* [cite_start]**[TaskSync]** - Team management with AI task summarization[cite: 36, 37].
-* [cite_start]**[DentalCare]** - Automated healthcare scheduling and mailer systems[cite: 38, 39].
+* [cite_start]**[Al-Powered Knowledge Chat]** - Local LLM retrieval using Ollama 14B and FAISS.
+* [cite_start]**[TaskSync]** - Team management with AI task summarization.
+* [cite_start]**[DentalCare]** - Automated healthcare scheduling and mailer systems.
 
 ---
 
